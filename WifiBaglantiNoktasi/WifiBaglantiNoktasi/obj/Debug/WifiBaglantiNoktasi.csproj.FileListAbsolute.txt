@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2015\Projects\WifiBaglantiNoktasi\WifiBaglantiNoktasi\bin\Debug\WifiBaglantiNoktasi.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\WifiBaglantiNoktasi\WifiBaglantiNoktasi\bin\Debug\WifiBaglantiNoktasi.exe
+c:\users\acer\documents\visual studio 2015\Projects\WifiBaglantiNoktasi\WifiBaglantiNoktasi\bin\Debug\WifiBaglantiNoktasi.pdb
+c:\users\acer\documents\visual studio 2015\Projects\WifiBaglantiNoktasi\WifiBaglantiNoktasi\obj\Debug\WifiBaglantiNoktasi.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\WifiBaglantiNoktasi\WifiBaglantiNoktasi\obj\Debug\WifiBaglantiNoktasi.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\WifiBaglantiNoktasi\WifiBaglantiNoktasi\obj\Debug\WifiBaglantiNoktasi.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\WifiBaglantiNoktasi\WifiBaglantiNoktasi\obj\Debug\WifiBaglantiNoktasi.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\WifiBaglantiNoktasi\WifiBaglantiNoktasi\obj\Debug\WifiBaglantiNoktasi.exe
+c:\users\acer\documents\visual studio 2015\Projects\WifiBaglantiNoktasi\WifiBaglantiNoktasi\obj\Debug\WifiBaglantiNoktasi.pdb
